@@ -1,4 +1,4 @@
-BeautifulSoup Guide and Mini-Project
+BeautifulSoup Guide (based on freecodecamp tutorial) and Mini-Project 
 
 - My notes / guide for web scraping techniques
 - Mini-project on web scraping for jobs
