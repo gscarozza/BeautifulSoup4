@@ -1,4 +1,4 @@
-BeautifulSoup Guide and Mini-Project 
+BeautifulSoup Project Guide 
 
 - My notes / guide for web scraping techniques
 - Mini-project on web scraping for jobs
