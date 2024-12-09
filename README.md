@@ -1,4 +1,4 @@
-BeautifulSoup Project Guide 
+Web Scraper Using BeautifulSoup4
 
 - My notes / guide for web scraping techniques
 - Mini-project on web scraping for jobs
